@@ -1,0 +1,25 @@
+.b {
+	width: 150px;
+}
+.a {
+	display: flex;
+	background-color: #DDD;
+	margin: 0;
+
+}
+#c{
+	flex: 10%;
+
+}
+#d{
+	flex: 90%;
+	font-weight: 150%;
+}
+#e{
+	background-color : #04aa6d;
+	text-align: center;
+	margin: 0;
+}
+#f {
+	width: 20px;
+}
